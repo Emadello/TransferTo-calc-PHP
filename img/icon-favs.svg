@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(-1122 -25)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="26" height="26" transform="translate(1122 25)"/>
+    <g id="heart" transform="translate(1125 -8.362)">
+      <g id="Group_20" data-name="Group 20" transform="translate(0 38.362)">
+        <g id="Group_19" data-name="Group 19">
+          <path id="Path_9" data-name="Path 9" class="cls-2" d="M18.441,40.032a5.546,5.546,0,0,0-7.889-.045l-.541.541-.541-.541a5.547,5.547,0,0,0-7.844,7.844l6.933,6.933a2.056,2.056,0,0,0,2.9,0l6.888-6.888A5.6,5.6,0,0,0,18.441,40.032Zm-.816,7.118-6.888,6.888a1.028,1.028,0,0,1-1.452,0L2.351,47.105a4.52,4.52,0,1,1,6.392-6.392l.542.542-.829.83a.514.514,0,1,0,.726.726l2.1-2.1a4.519,4.519,0,0,1,6.429.037A4.568,4.568,0,0,1,17.624,47.15Z" transform="translate(0 -38.362)"/>
+        </g>
+      </g>
+      <g id="Group_22" data-name="Group 22" transform="translate(14.832 40.277)">
+        <g id="Group_21" data-name="Group 21" transform="translate(0 0)">
+          <path id="Path_10" data-name="Path 10" class="cls-2" d="M383.083,90.793a3.752,3.752,0,0,0-2.731-3.38.514.514,0,0,0-.275.989,2.725,2.725,0,0,1,1.981,2.454.514.514,0,0,0,.512.482h.032A.513.513,0,0,0,383.083,90.793Z" transform="translate(-379.701 -87.395)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

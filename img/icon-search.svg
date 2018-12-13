@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="icon_Search" transform="translate(-735 -25)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="20" height="20" transform="translate(735 25)"/>
+    <g id="loupe" transform="translate(735.34 25.377)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0 0)">
+        <g id="Group_1" data-name="Group 1">
+          <path id="Path_1" data-name="Path 1" class="cls-2" d="M17.268,2.093A7.009,7.009,0,0,0,7.017,11.64l-.835.835-.851-.851a.5.5,0,0,0-.7,0L.644,15.61a2.2,2.2,0,1,0,3.107,3.107l3.985-3.985a.5.5,0,0,0,0-.7l-.851-.851.835-.835A7.009,7.009,0,0,0,17.268,2.093ZM3.048,18.014a1.2,1.2,0,1,1-1.7-1.7L3.57,14.089l1.7,1.7Zm2.927-2.927-1.7-1.7.707-.707,1.7,1.7ZM16.565,11.3a6.014,6.014,0,1,1,1.762-4.253A6.021,6.021,0,0,1,16.565,11.3Z" transform="translate(0 -0.043)"/>
+        </g>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(7.46 2.153)">
+        <g id="Group_3" data-name="Group 3">
+          <path id="Path_2" data-name="Path 2" class="cls-2" d="M205.975,58.523a4.852,4.852,0,1,0,0,6.865h0A4.86,4.86,0,0,0,205.975,58.523Zm-.7,6.162a3.858,3.858,0,1,1,0-5.459A3.865,3.865,0,0,1,205.272,64.685Z" transform="translate(-197.69 -57.103)"/>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(10.316 4.389)">
+        <g id="Group_5" data-name="Group 5">
+          <path id="Path_3" data-name="Path 3" class="cls-2" d="M277.21,117.118a2.621,2.621,0,0,0-3.7,0,.5.5,0,1,0,.7.7,1.625,1.625,0,0,1,2.3,0,.5.5,0,0,0,.7-.7Z" transform="translate(-273.363 -116.352)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
