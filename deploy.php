@@ -1,4 +1,31 @@
 <?php
+error_reporting(E_ALL); ini_set('display_errors', 1);
+
+if( !function_exists('apache_request_headers') ) {
+///
+function apache_request_headers() {
+  $arh = array();
+  $rx_http = '/\AHTTP_/';
+  foreach($_SERVER as $key => $val) {
+    if( preg_match($rx_http, $key) ) {
+      $arh_key = preg_replace($rx_http, '', $key);
+      $rx_matches = array();
+      // do some nasty string manipulations to restore the original letter case
+      // this should work in most cases
+      $rx_matches = explode('_', $arh_key);
+      if( count($rx_matches) > 0 and strlen($arh_key) > 2 ) {
+        foreach($rx_matches as $ak_key => $ak_val) $rx_matches[$ak_key] = ucfirst($ak_val);
+        $arh_key = implode('-', $rx_matches);
+      }
+      $arh[$arh_key] = $val;
+    }
+  }
+  return( $arh );
+}
+///
+}
+///
+
 // Forked from https://gist.github.com/1809044
 // Available from https://gist.github.com/nichtich/5290675#file-deploy-php
 $TITLE   = 'Git Deployment Hamster';
@@ -58,7 +85,7 @@ $output = "\n";
 $log = "####### ".date('Y-m-d H:i:s'). " #######\n";
 foreach($commands AS $command){
     // Run it
-    $tmp = shell_exec("$command 2>&1");
+    $tmp = exec("$command 2>&1");
     // Output
     $output .= "<span style=\"color: #6BE234;\">\$</span> <span style=\"color: #729FCF;\">{$command}\n</span>";
     $output .= htmlentities(trim($tmp)) . "\n";

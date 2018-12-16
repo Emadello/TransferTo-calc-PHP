@@ -1,0 +1,108 @@
+####### 2018-12-16 20:48:36 #######
+$ echo $PWD
+
+$ whoami
+
+$ git pull
+
+$ git status
+
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-12-16 20:51:11 #######
+$ echo $PWD
+
+$ whoami
+
+$ git pull
+
+$ git status
+
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-12-16 21:07:34 #######
+$ echo $PWD
+
+$ whoami
+
+$ git pull
+
+$ git status
+
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-12-16 21:10:43 #######
+$ echo $PWD
+
+$ whoami
+
+$ git pull
+
+$ git status
+
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-12-16 21:12:28 #######
+$ echo $PWD
+
+$ whoami
+
+$ git pull
+
+$ git status
+
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
+####### 2018-12-16 21:16:11 #######
+$ echo $PWD
+/home/lifetimecode/public_html/calcPHP
+$ whoami
+lifetimecode
+$ git pull
+Updating 95eebdf..c18f1aa
+$ git status
+no changes added to commit (use "git add" and/or "git commit -a")
+$ git submodule sync
+
+$ git submodule update
+
+$ git submodule status
+
+$ test -e /usr/share/update-notifier/notify-reboot-required && echo "system restart required"
+
+
