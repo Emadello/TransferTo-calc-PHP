@@ -2,7 +2,7 @@
     <main role="main" class="container">
       <div class="starter-template">
         <h1>Simple Calculator</h1>
-        12345678910
+        init
       </div>
 
     </main><!-- /.container -->
