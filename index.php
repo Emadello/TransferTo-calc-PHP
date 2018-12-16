@@ -2,7 +2,7 @@
     <main role="main" class="container">
       <div class="starter-template">
         <h1>Simple Calculator</h1>
-        1234567
+        12345678
       </div>
 
     </main><!-- /.container -->
