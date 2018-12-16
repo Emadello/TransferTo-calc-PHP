@@ -6,14 +6,13 @@
   "useAtomicWrites": false,
   "deleteLocal": false,
   "hostname": "ftp.lifetimecode.com",
-  "port": "21",
-  "target": "/",
+  "target": "/home/lifetimecode/public_html/calcPHP",
   "ignore": [
     ".remote-sync.json",
     ".git/**"
   ],
-  "username": "calcphp@lifetimecode.com",
-  "password": "calcphp@123",
+  "username": "lifetimecode",
+  "password": "c6Br95vU41p1",
   "watch": [],
-  "transport": "ftp"
+  "transport": "scp"
 }
